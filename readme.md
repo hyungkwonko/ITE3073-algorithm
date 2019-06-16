@@ -1,6 +1,8 @@
 # ITE3073 Introduction to Algorithm @ Hanyang University
 
 ![](https://github.com/hyungkwonko/ITE3073-algorithm/blob/master/img/ita.PNG)
+<img src="https://github.com/hyungkwonko/ITE3073-algorithm/blob/master/img/ita.PNG" width="200" height="200" />
+
 This repository includes projects done in ITE3073 class at Hanyang University in Spring 2018.
 
 <br>
